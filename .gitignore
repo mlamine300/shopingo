@@ -31,7 +31,7 @@ yarn-error.log*
 .env*.local
 
 
-f2.json
+firebase_admin.json
 
 # vercel
 .vercel
